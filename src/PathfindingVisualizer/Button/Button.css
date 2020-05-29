@@ -1,0 +1,115 @@
+﻿.button1 {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.15s; /* Safari */
+    transition-duration: 0.15s;
+    text-decoration: none;
+    overflow: hidden;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+    .button1:hover {
+        background-color: #3e8e41;
+        box-shadow: 0 8px 12px 0 rgba(0,0,0,0.24), 0 13px 42px 0 rgba(0,0,0,0.19);
+    }
+
+    .button1:active {
+        transform: translateY(3px);
+    }
+
+/* Blue */
+.button2 {
+    background-color: #d4cb2c;
+    border: none;
+    border: none;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.1s; /* Safari */
+    transition-duration: 0.1s;
+    text-decoration: none;
+    overflow: hidden;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+    .button2:hover {
+        background-color: #0d80a5;
+        box-shadow: 0 8px 12px 0 rgba(0,0,0,0.24), 0 13px 42px 0 rgba(0,0,0,0.19);
+    }
+    .button2:active {
+        transform: translateY(3px);
+    }
+
+/* Red */
+.button3 {
+    background-color: #cc0d0d;
+    border: none;
+    border: none;
+    font-size: 16px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.15s; /* Safari */
+    transition-duration: 0.15s;
+    text-decoration: none;
+    overflow: hidden;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+    .button3:hover {
+        background-color: #be0a0a;
+        box-shadow: 0 8px 12px 0 rgba(0,0,0,0.24), 0 13px 42px 0 rgba(0,0,0,0.19);
+    }
+    .button3:active {
+        transform: translateY(3px);
+    }
+
+/* Gray */
+.button4 {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    border: none;
+    font-size: 16px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+    .button4:hover {
+        background-color: #0d80a5;
+        box-shadow: 0 8px 12px 0 rgba(0,0,0,0.24), 0 13px 42px 0 rgba(0,0,0,0.19);
+    }
+
+
+/* Black */
+.button5 {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
